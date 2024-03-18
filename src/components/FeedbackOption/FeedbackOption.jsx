@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './FeedbackOptions.module.css';
+import styles from './FeedbackOption.module.css';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => (
   <div className={styles.buttonContainer}>
