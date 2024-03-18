@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VallentinX/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/VallentinX/goit-react-hw-02-feedback/static/js/main.fcadc300.js",
+    "index.html": "/VallentinX/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/VallentinX/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.fcadc300.js.map": "/VallentinX/goit-react-hw-02-feedback/static/js/main.fcadc300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.fcadc300.js"
+  ]
+}
