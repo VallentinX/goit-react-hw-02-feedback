@@ -1,0 +1,12 @@
+
+
+.statsContainer {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: antiquewhite;
+}
+
+.statsItem {
+  margin-bottom: 5px;
+}
