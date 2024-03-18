@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Notification from './Notification/Notification';
 import Section from './Section/Section';
-import FeedbackOptions from './FeeeddbackOption/Feedbackoption';
+import FeedbackOptions from './FeedbackOption/FeedbackOption';
 import Statistics from './Statistics/Statistics';
 import styles from './App.module.css';
 
